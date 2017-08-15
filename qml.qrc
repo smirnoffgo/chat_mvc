@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>root/main.qml</file>
+        <file>root/qtquickcontrols2.conf</file>
+        <file>views/DelegateItem.qml</file>
+        <file>controllers/ListViewController.qml</file>
+    </qresource>
+</RCC>
